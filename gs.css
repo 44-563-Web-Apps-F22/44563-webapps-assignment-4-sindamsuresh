@@ -54,3 +54,15 @@ td {
 tr:nth-child(even) {
     background-color: #e2e2e2;
 }
+
+.Princess:hover {
+    text-shadow: 2px 3px 2px #2cf005;
+}
+
+.Sach:hover {
+    text-shadow: 2px 3px 1.2px #2cf005;
+}
+
+.Chloe:hover {
+    text-shadow: 2px 3px 1.2px #2cf005;
+}
