@@ -66,3 +66,33 @@ tr:nth-child(even) {
 .Chloe:hover {
     text-shadow: 2px 3px 1.2px #2cf005;
 }
+
+i {
+    color: orange;
+    font-size: 100px !important;
+}
+
+img {
+    width: "250"; 
+    height: "200";
+}
+
+.navbar-horizontal {
+    margin: 40px 40px 40px 40px;
+    list-style-type: none;
+}
+
+.navbar-horizontal li{
+    float: left;
+    background-color: cornflowerblue;
+}
+
+.navbar-horizontal a:hover {
+    background-color: darkkhaki;
+}
+
+.navbar-horizontal a{
+    display: block;
+    padding: 22px;
+    color: aqua;
+}
